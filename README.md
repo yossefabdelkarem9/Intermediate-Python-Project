@@ -8,7 +8,6 @@ This project was created as part of the **Intermediate Python** course on DataCa
 
 * `notebook.ipynb`: Jupyter notebook containing the full analysis
 * `netflix_data.csv`: Dataset used for the analysis
-* `redpopcorn.jpg`: Image used for visualization/illustration (optional)
 
 ## 📌 Key Concepts Applied
 
