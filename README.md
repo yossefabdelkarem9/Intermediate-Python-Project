@@ -35,4 +35,4 @@ By completing this project, I:
 * Learned how to structure, explore, and visualize real datasets
 * Applied core skills in a relevant and industry-based context
 
-Feel free to fork the repo, explore the notebook, or use the analysis as a learning reference. Thanks for visiting!
+Thanks for visiting!
